@@ -1,3 +1,4 @@
+// example file to test resource consumption simulation
 `timescale 1 ns / 1 ps
 
 module top (
